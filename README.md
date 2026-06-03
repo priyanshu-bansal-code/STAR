@@ -1,6 +1,7 @@
 # STAR
 
-#WEEK1
-*OOPS Python  
-*ROS2 Refresher
+# WEEK1
+
+* OOPS Python  
+* ROS2 Refresher
 
